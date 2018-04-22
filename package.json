@@ -1,0 +1,24 @@
+{
+  "name": "anuvaad-translations",
+  "version": "1.0.0",
+  "description": "A small app for translation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorva-saxena/Anuvaad-Translations.git"
+  },
+  "author": "Apoorva Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorva-saxena/Anuvaad-Translations/issues"
+  },
+  "homepage": "https://github.com/apoorva-saxena/Anuvaad-Translations#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "watson-developer-cloud": "^3.3.0"
+  }
+}
